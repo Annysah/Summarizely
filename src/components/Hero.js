@@ -5,12 +5,12 @@ const Hero = () => {
     <>
       <header className="w-full flex justify-center items-center flex-col">
         <nav className="flex justify-between items-center w-full mb-10 pt-3">
-          <h1 className="font-bold text-3xl blue_gradient">Summarisely</h1>
+          <h1 className="font-bold text-3xl blue_gradient">Summarizely</h1>
 
           <button
             className="black_btn"
             type="button"
-            onClick={() => window.open("https://github.com/Annysah")}
+            onClick={() => window.open("https://github.com/Annysah/Summarizely")}
           >
             Star on Github <i className="fa fa-star"></i>
           </button>
